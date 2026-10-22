@@ -9,21 +9,15 @@ The study examines the functional connectivity organization of scene-selective c
 
 Repository contents:
 preprocessing:
-
 denoising.sbatch: Denoising and nuisance regression for resting-state fMRI data.
-
 register_roi.sbatch: Transformation and registration of cortical regions of interest (ROIs) to individual participant space.
 
 connectivity:
-
 save_timecourse_to_csv.sbatch: Extraction of ROI time series and calculation of pairwise functional connectivity
-
 connectivity_rsa.r: Representational similarity analysis (RSA) comparing neural connectivity patterns with hypothesized models of scene-system organization.
 
 stats:
-
 model_comparison.r: statistical testing on the rsa results between different models (Fig. 3)
-
 developmental_analysis.r: Linear mixed-effects analyses of developmental changes in connectivity among scene-selective regions (Fig. 7)
 
 Data availability:
