@@ -33,4 +33,4 @@ Analyses were conducted using Bash and R, together with relevant neuroimaging so
 Software versions and additional dependencies are documented in the manuscript's Methods and Reporting Summary.
 
 Citation: If you use this code, please cite the associated publication.
-Code archive DOI:
+Code archive DOI:https://doi.org/10.5281/zenodo.23577258
